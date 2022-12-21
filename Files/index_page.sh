@@ -22,7 +22,6 @@ then
 		bash sign_up_page.sh	;;
 	3) 	clear
 	  	echo -e "\n\n\n\t\t\t\t**********\t$yellow This program has stopped executing as per your input $normal\t**********\t\t\t"
-   		echo -e "\n\t\t\t\t\t**********\t $yellow Thank you for using Software $normal \t**********\t\t\t\n"
 		sleep 2
 		clear
 		exit	;;
