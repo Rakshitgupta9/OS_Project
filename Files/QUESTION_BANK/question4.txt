@@ -1,5 +1,0 @@
-4. To access the services of the operating system, the interface is provided by the ___________
-a) Library
-b) System calls
-c) Assembly instructions
-d) API

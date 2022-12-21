@@ -1,5 +1,0 @@
-11. What does OS X has?
-a) monolithic kernel with modules
-b) microkernel
-c) monolithic kernel
-d) hybrid kernel

@@ -1,5 +1,0 @@
-17. The portion of the process scheduler in an operating system that dispatches processes is concerned with ____________
-a) assigning ready processes to waiting queue
-b) assigning running processes to blocked queue
-c) assigning ready processes to CPU
-d) all of the mentioned

@@ -1,5 +1,0 @@
-10. Which one of the following is not a real time operating system?
-a) RTLinux
-b) Palm OS
-c) QNX
-d) VxWorks

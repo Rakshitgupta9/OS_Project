@@ -1,5 +1,0 @@
-18. The FCFS algorithm is particularly troublesome for ____________
-a) operating systems
-b) multiprocessor systems
-c) time sharing systems
-d) multiprogramming systems

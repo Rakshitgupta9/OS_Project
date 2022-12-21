@@ -1,5 +1,0 @@
-3. In Operating Systems, which of the following is/are CPU scheduling algorithms?
-a) Priority
-b) Round Robin
-c) Shortest Job First
-d) All of the mentioned

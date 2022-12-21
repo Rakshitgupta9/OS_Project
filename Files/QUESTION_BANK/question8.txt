@@ -1,5 +1,0 @@
-8. Where is the operating system placed in the memory?
-a) either low or high memory (depending on the location of interrupt vector)
-b) in the low memory
-c) in the high memory
-d) none of the mentioned

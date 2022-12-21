@@ -1,5 +1,0 @@
-15. When a process is in a “Blocked” state waiting for some I/O service. When the service is completed, it goes to the __________
-a) Terminated state
-b) Suspended state
-c) Running state
-d) Ready state
