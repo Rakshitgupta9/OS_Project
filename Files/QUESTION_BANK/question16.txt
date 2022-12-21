@@ -1,0 +1,5 @@
+16. Transient operating system code is a code that ____________
+a) stays in the memory always
+b) never enters the memory space
+c) comes and goes as needed
+d) is not easily accessible

@@ -1,0 +1,5 @@
+19. For an effective operating system, when to check for deadlock?
+a) every time a resource request is made at fixed time intervals
+b) at fixed time intervals
+c) every time a resource request is made
+d) none of the mentioned

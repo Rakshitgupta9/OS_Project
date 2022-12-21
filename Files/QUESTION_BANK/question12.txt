@@ -1,0 +1,5 @@
+12. In operating system, each process has its own __________
+a) open files
+b) pending alarms, signals, and signal handlers
+c) address space and global variables
+d) all of the mentioned

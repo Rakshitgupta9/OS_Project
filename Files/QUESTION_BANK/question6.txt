@@ -1,0 +1,5 @@
+6. Which one of the following is not true?
+a) kernel remains in the memory during the entire computer session
+b) kernel is made of various modules which can not be loaded in running operating system
+c) kernel is the first part of the operating system to load into memory during booting
+d) kernel is the program that constitutes the central core of the operating system

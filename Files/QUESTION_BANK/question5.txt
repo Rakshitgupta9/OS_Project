@@ -1,0 +1,5 @@
+5. CPU scheduling is the basis of ___________
+a) multiprogramming operating systems
+b) larger memory sized systems
+c) multiprocessor systems
+d) none of the mentioned

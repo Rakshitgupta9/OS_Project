@@ -1,0 +1,5 @@
+13. In a timeshare operating system, when the time slot assigned to a process is completed, the process switches from the current state to?
+a) Suspended state
+b) Terminated state
+c) Ready state
+d) Blocked state

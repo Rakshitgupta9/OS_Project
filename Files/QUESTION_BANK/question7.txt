@@ -1,0 +1,5 @@
+7. Which one of the following errors will be handle by the operating system?
+a) lack of paper in printer
+b) connection failure in the network
+c) power failure
+d) all of the mentioned

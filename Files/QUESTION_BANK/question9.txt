@@ -1,0 +1,5 @@
+9. If a process fails, most operating system write the error information to a ______
+a) new file
+b) another running process
+c) log file
+d) none of the mentioned

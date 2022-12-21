@@ -1,0 +1,5 @@
+20. A deadlock avoidance algorithm dynamically examines the __________ to ensure that a circular wait condition can never exist.
+a) operating system
+b) resources
+c) system storage state
+d) resource allocation state

@@ -1,0 +1,5 @@
+14. Cascading termination refers to the termination of all child processes if the parent process terminates ______
+a) Normally or abnormally
+b) Abnormally
+c) Normally
+d) None of the mentioned
